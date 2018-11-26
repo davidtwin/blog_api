@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  water: one
+  customer: one
+  delivery_number: MyString
+
+two:
+  water: two
+  customer: two
+  delivery_number: MyString
